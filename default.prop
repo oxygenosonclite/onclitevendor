@@ -14,3 +14,4 @@ dalvik.vm.isa.arm64.variant=generic
 dalvik.vm.isa.arm64.features=default
 dalvik.vm.isa.arm.variant=cortex-a53
 dalvik.vm.isa.arm.features=default
+ro.oem_unlock_supported=1
